@@ -1,0 +1,16 @@
+name: flutter_mysqlhelper
+description: mysql帮助类(flutter版)
+version: 0.1.0
+homepage: https://github.com/wangjinbiao1985/flutter_mysqlhelper
+#publish_to: https://pub.dev
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mysql1: ^0.19.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
