@@ -11,6 +11,6 @@ dependencies:
     sdk: flutter
   mysql1: ^0.19.2
 
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
+#dev_dependencies:
+#  flutter_test:
+#    sdk: flutter
